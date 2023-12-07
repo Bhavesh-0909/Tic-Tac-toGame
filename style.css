@@ -17,7 +17,8 @@ div{
     background-color: black;
     background-image: url("./Background\ Gradient.png");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100vw;
+
 }   
 
 .game-info{
