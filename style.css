@@ -12,7 +12,7 @@
     background-image: linear-gradient(to right top, #1d004f, #20125e, #22226d, #24307b, #273f89, #1e529b, #1066ac, #0079bc, #0095cf, #00b0d8, #00cada, #17e3d6);
 }
 
-.Player{
+.game-info{
     color: white;
     padding: 0.8rem 2rem;
     text-align: center;
