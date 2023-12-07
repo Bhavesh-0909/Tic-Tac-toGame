@@ -2,15 +2,23 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
 }
 
+div{
+    font-family: 'Nunito';
+    font-weight: 600;
+}
 .wrapper{
     width: 100vw;
     height: 100vh;
     display:grid;
     place-items:center;
-    background-image: linear-gradient(to right top, #1d004f, #20125e, #22226d, #24307b, #273f89, #1e529b, #1066ac, #0079bc, #0095cf, #00b0d8, #00cada, #17e3d6);
-}
+    background-color: black;
+    background-image: url("./Background\ Gradient.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}   
 
 .game-info{
     color: white;
